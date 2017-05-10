@@ -5,7 +5,7 @@
 The function returns a JSON object showing the words identified, and their occurrences.
 
 ## Testing
-- To run test for the application: `SpecRunner.html` in `test` folder.
+To run test for the application: run `SpecRunner.html` in `test` folder.
 
 ## Author
 **Harry Isidore**
